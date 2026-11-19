@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/shrutibalasa/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/shrutibalasa/projects/nativephp/masterclass/masterclass/syncup-api/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
